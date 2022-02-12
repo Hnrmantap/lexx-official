@@ -776,7 +776,7 @@ case 'delete':
 switch (command) {
 
 case 'verify':
-fakeyt('𝐮𝐝𝐚𝐡 𝐧𝐠𝐞𝐧𝐭𝐨𝐝 𝐥𝐢𝐡𝐚𝐭 𝐜𝐡𝐚𝐭 𝐩𝐫𝐢𝐛𝐚𝐝𝐢 𝐤𝐞𝐭𝐢𝐤 9999!!!')
+fakeyt('𝐮𝐝𝐚𝐡 𝐧𝐠𝐞𝐧𝐭𝐨𝐝 𝐥𝐢𝐡𝐚𝐭 𝐜𝐡𝐚𝐭 𝐩𝐫𝐢𝐛𝐚𝐝𝐢 𝐤𝐞𝐭𝐢𝐤 9999 https://wa.me/6285781571707 !!!')
 kiibotz.sendMessage(sender, "𝐊𝐞𝐭𝐢𝐤 9999 𝐭𝐨𝐝 𝐛𝐭𝐰 𝐣𝐚𝐧𝐠𝐚𝐧 𝐥𝐮𝐩𝐚 𝐬𝐮𝐛𝐬𝐜𝐫𝐢𝐛𝐞 KiiBotz Yt", text, {quoted: fakeTroli})
 break
 case 'setcmd':
